@@ -19,14 +19,14 @@ Tested players :
 
 ### Gnome Shell support
 
-* master supports gnome-shell 3.0.x
-* branch 3.2 supports gnome-shell 3.1.90
+* master supports gnome-shell 3.2.x
+* branch gnome-shell-3.0 supports gnome-shell 3.0.X
 
 ----
 
 ### Screenshots
 
-![Screenshot](gnome-shell-extensions-mediaplayer/raw/master/data/mediaplayer1.png)
+![Screenshot](gnome-shell-extensions-mediaplayer/raw/gnome-shell-3.0/data/mediaplayer1.png)
 
 ----
 
